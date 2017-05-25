@@ -6,5 +6,8 @@ Alteração idiota qualquer
 
 novamente
 
-Já adicionado ao GitHub
+Já adicionado Aqui vai dar conflito ao GitHub
 e tudo em ordem - nada mudado!
+
+fnrekjherjkfh
+Rebase
