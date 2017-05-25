@@ -4,7 +4,7 @@ testando meu git
 Criado. avancando.
 Alteração idiota qualquer
 
-novamente
-
+novamente o conflito se dará aqu também.
 Já adicionado ao GitHub
 e tudo em ordem - nada mudado!
+Espero ter ajudado
